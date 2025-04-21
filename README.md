@@ -21,9 +21,7 @@
 ```bash
 wget -O nezha_openwrt.sh https://raw.githubusercontent.com/vbskycn/nezha_openwrt/main/nezha_openwrt.sh && chmod +x nezha_openwrt.sh && ./nezha_openwrt.sh
 ```
-
-访问不了github的自己加代理
-
+#### 国内网无法访问github的用下面的，如果失效请自己更换代理
 ```
 wget -O nezha_openwrt.sh https://gh-proxy.com/raw.githubusercontent.com/vbskycn/nezha_openwrt/main/nezha_openwrt.sh && chmod +x nezha_openwrt.sh && ./nezha_openwrt.sh
 ```
