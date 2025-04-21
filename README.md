@@ -111,3 +111,7 @@ chmod +x nezha_openwrt.sh
 ## 技术支持
 如有问题，请提交Issue或Pull Request：
 - GitHub: https://github.com/vbskycn/nezha_openwrt 
+
+
+
+## 方便的同学请给个Star
