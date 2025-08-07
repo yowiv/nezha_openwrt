@@ -19,11 +19,11 @@
 
 ### 一键安装命令
 ```bash
-wget -O nezha_openwrt.sh https://raw.githubusercontent.com/vbskycn/nezha_openwrt/main/nezha_openwrt.sh && chmod +x nezha_openwrt.sh && ./nezha_openwrt.sh
+wget -O nezha_openwrt.sh https://raw.githubusercontent.com/yowiv/nezha_openwrt/main/nezha_openwrt.sh && chmod +x nezha_openwrt.sh && ./nezha_openwrt.sh
 ```
 #### 国内网无法访问github的用下面的，如果失效请自己更换代理
 ```
-wget -O nezha_openwrt.sh https://gh-proxy.com/raw.githubusercontent.com/vbskycn/nezha_openwrt/main/nezha_openwrt.sh && chmod +x nezha_openwrt.sh && ./nezha_openwrt.sh
+wget -O nezha_openwrt.sh https://gh-proxy.com/raw.githubusercontent.com/yowiv/nezha_openwrt/main/nezha_openwrt.sh && chmod +x nezha_openwrt.sh && ./nezha_openwrt.sh
 ```
 
 
@@ -32,7 +32,7 @@ wget -O nezha_openwrt.sh https://gh-proxy.com/raw.githubusercontent.com/vbskycn/
 
 #### 1. 下载脚本
 ```bash
-wget https://raw.githubusercontent.com/vbskycn/nezha_openwrt/main/nezha_openwrt.sh
+wget https://raw.githubusercontent.com/yowiv/nezha_openwrt/main/nezha_openwrt.sh
 ```
 
 #### 2. 添加执行权限
@@ -109,7 +109,7 @@ chmod +x nezha_openwrt.sh
 
 ## 技术支持
 如有问题，请提交Issue或Pull Request：
-- GitHub: https://github.com/vbskycn/nezha_openwrt 
+- GitHub: https://github.com/yowiv/nezha_openwrt 
 
 
 
