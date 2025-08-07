@@ -258,11 +258,11 @@ show_install_info() {
     print_message "安装完成！"
     print_message "安装目录: /etc/nezha"
     print_message "配置文件: /etc/nezha/config.yml"
-    print_message "服务状态: $(/etc/init.d/nezha-agent status)"
+    print_message "服务状态: $(/etc/init.d/nezha-service status)"
     print_message "您可以通过以下命令管理服务："
-    print_message "启动服务: /etc/init.d/nezha-agent start"
-    print_message "停止服务: /etc/init.d/nezha-agent stop"
-    print_message "重启服务: /etc/init.d/nezha-agent restart"
+    print_message "启动服务: /etc/init.d/nezha-service start"
+    print_message "停止服务: /etc/init.d/nezha-service stop"
+    print_message "重启服务: /etc/init.d/nezha-service restart"
 }
 
 # 主函数
